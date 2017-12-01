@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     
-    <link rel="icon" type="image/png" href="img/favicon.jpg" />
+    <link rel="icon" type="image/png" href="img/favicon.png" />
   <title>GRUPO LAWLE</title>
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
     <META NAME="Title" content="GRUPO LAWLE">
@@ -66,7 +66,7 @@
     <h1>MANEJO DE RESIDUOS</h1>
     <p>EL ORDEN QUE SE DEBE DE MANEJAR LOS RESIDUOS</p>
      <div style="text-align: center; margin-top: 5%;">
-      <a class="btn btn-danger btn-outline btn-lg"  href="#CONTACTO" data-toggle="modal" data-target="#myModal"><i class="fa fa-plus" aria-hidden="true"></i> Información</a>
+      <a class="btn btn-danger btn-outline btn-lg"  data-scroll href="#CONTACTO" aria-pressed="true"><i class="fa fa-plus" aria-hidden="true"></i> Información</a>
   </div>
   </div>
 </div>
