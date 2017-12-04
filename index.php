@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    
+    <meta name="google-site-verification" content="Q1_2XNvH1og5KjsrH7vXScxTOseozEJ3bDmtQyluqDU" />
     <link rel="icon" type="image/png" href="img/favicon.png" />
   <title>GRUPO LAWLE</title>
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
