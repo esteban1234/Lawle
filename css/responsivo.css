@@ -1,0 +1,481 @@
+@media screen and (max-width: 480px){
+/**************************DISENÑO INDEX***********************************/
+	.bannerh, .banner, .fondo{
+		height: 100%;
+	}
+
+	.fondo h1{
+		font-size: 25px;
+		padding: 0px 2px;
+		font-weight: bold;
+	}
+
+	.fondo p{
+		font-size: 18px;
+	}
+
+	.fondo div{
+		margin-bottom: 20px;
+	}
+	
+	.logo{
+		width: 40%;
+		margin-bottom: 10px;
+	}
+
+	.op-menu{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		cursor: pointer;
+		display: block;
+	}
+
+	nav{
+		position: fixed;
+		z-index: 3;
+		height: 100%;
+		margin: 0px;
+		top: 0px;
+		width: 60%;
+		background: rgba(0,0,0,0.9);
+		padding: 0px;
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul li{
+		display: block;
+		width: 100%;
+		margin: 0px;
+		float: none !important;
+		text-align: center !important;
+		border-bottom: .5px solid rgba(255,255,255,0.2);
+	}
+
+	nav ul li a{
+		color: #fff !important;
+
+	}
+
+	.seccion1 h3{
+		/*border: 2px solid green;*/
+		color: #000;
+		font-size: 18px;
+		padding: 0px 15px;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.seccion1 .text-justify, .txt-gl{
+		text-align: justify;
+	}
+
+	.seccion1 .txt-center{
+		text-align: center !important;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.imge2, .imge3{
+		display: none;
+	}
+
+	.imge{
+		width: 150px;
+		height: 100px;
+		background-size: 100% 100%;
+	}
+
+	.center-img, .h4-txt{
+		text-align: center;
+	}
+	
+	.h1-gl{
+		font-size: 23px;
+		text-align: center;
+	}
+
+	
+	.seccion3{
+		padding: 0px;
+	}
+
+	.tit-ser, .tit-cont{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.txt-ser, .txt-cont{
+		font-size: 20px;
+		padding: 0px 5px;
+	}
+
+	.subtit-ser{
+		font-size: 23px;
+		color: #000;
+	}
+
+	.subtxt-ser{
+		text-align: justify;
+		color: #000;
+		margin-bottom: 30px;
+	}
+
+	.image, .image2, .image3{
+		border-radius: 10px;
+		width: 80%;
+		margin: auto;
+	}
+	
+	form{
+		width: 80%;
+		margin: auto;
+	}
+
+	.btn-send{
+		text-align: center;
+		float: none !important;
+	}
+
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 10px;
+	}
+/************************END DISENÑO INDEX*********************************/
+
+
+/**************************DISENÑO INDES*********************************/
+/************************END DISENÑO INDES*******************************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/**************************DISENÑO INDEX***********************************/
+	.bannerh, .banner, .fondo{
+		height: 100%;
+	}
+
+	.fondo h1{
+		font-size: 25px;
+		padding: 0px 2px;
+		font-weight: bold;
+	}
+
+	.fondo p{
+		font-size: 18px;
+	}
+
+	.fondo div{
+		margin-bottom: 20px;
+	}
+	
+	.logo{
+		width: 40%;
+		margin-bottom: 10px;
+	}
+
+	.op-menu{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		cursor: pointer;
+		display: block;
+	}
+
+	nav{
+		position: fixed;
+		z-index: 3;
+		height: 100%;
+		margin: 0px;
+		top: 0px;
+		width: 60%;
+		background: rgba(0,0,0,0.9);
+		padding: 0px;
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul li{
+		display: block;
+		width: 100%;
+		margin: 0px;
+		float: none !important;
+		text-align: center !important;
+		border-bottom: .5px solid rgba(255,255,255,0.2);
+	}
+
+	nav ul li a{
+		color: #fff !important;
+
+	}
+
+	.seccion1 h3{
+		/*border: 2px solid green;*/
+		color: #000;
+		font-size: 18px;
+		padding: 0px 15px;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.seccion1 .text-justify, .txt-gl{
+		text-align: justify;
+	}
+
+	.seccion1 .txt-center{
+		text-align: center !important;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.imge2, .imge3{
+		display: none;
+	}
+
+	.imge{
+		width: 200px;
+		height: 150px;
+		background-size: 100% 100%;
+	}
+
+	.center-img, .h4-txt{
+		text-align: center;
+	}
+	
+	.h1-gl{
+		font-size: 23px;
+		text-align: center;
+	}
+
+	
+	.seccion3{
+		padding: 0px;
+	}
+
+	.tit-ser, .tit-cont{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.txt-ser, .txt-cont{
+		font-size: 20px;
+		padding: 0px 5px;
+	}
+
+	.subtit-ser{
+		font-size: 23px;
+		color: #000;
+	}
+
+	.subtxt-ser{
+		text-align: justify;
+		color: #000;
+		margin-bottom: 30px;
+	}
+
+	.image, .image2, .image3{
+		border-radius: 10px;
+		width: 65%;
+		margin: auto;
+	}
+	
+	form{
+		width: 80%;
+		margin: auto;
+	}
+
+	.btn-send{
+		text-align: center;
+		float: none !important;
+	}
+
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 10px;
+	}
+/************************END DISENÑO INDEX*********************************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/**************************DISENÑO INDEX***********************************/
+	.bannerh, .banner, .fondo{
+		height: 100%;
+	}
+
+	.fondo h1{
+		font-size: 25px;
+		padding: 0px 2px;
+		font-weight: bold;
+	}
+
+	.fondo p{
+		font-size: 18px;
+	}
+
+	.fondo div{
+		margin-bottom: 20px;
+	}
+	
+	.logo{
+		width: 40%;
+		margin-bottom: 10px;
+	}
+
+	.op-menu{
+		position: absolute;
+		top: 20px;
+		left: 40px;
+		cursor: pointer;
+		display: block;
+	}
+
+	nav{
+		position: fixed;
+		z-index: 3;
+		height: 100%;
+		margin: 0px;
+		top: 0px;
+		width: 60%;
+		background: rgba(0,0,0,0.9);
+		padding: 0px;
+		display: none;
+	}
+
+	nav ul{
+		padding: 0px;
+	}
+
+	nav ul li{
+		display: block;
+		width: 100%;
+		margin: 0px;
+		float: none !important;
+		text-align: center !important;
+		border-bottom: .5px solid rgba(255,255,255,0.2);
+	}
+
+	nav ul li a{
+		color: #fff !important;
+
+	}
+
+	.seccion1 h3{
+		/*border: 2px solid green;*/
+		color: #000;
+		font-size: 18px;
+		padding: 0px 15px;
+		margin: 0px 0px 10px 0px;
+	}
+
+	.seccion1 .text-justify, .txt-gl{
+		text-align: justify;
+	}
+
+	.seccion1 .txt-center{
+		text-align: center !important;
+	}
+
+	.delete-br br{
+		display: none;
+	}
+
+	.imge2, .imge3{
+		display: none;
+	}
+
+	.imge{
+		width: 200px;
+		height: 150px;
+		background-size: 100% 100%;
+	}
+
+	.center-img, .h4-txt{
+		text-align: center;
+	}
+	
+	.h1-gl{
+		font-size: 23px;
+		text-align: center;
+	}
+
+	
+	.seccion3{
+		padding: 0px;
+	}
+
+	.tit-ser, .tit-cont{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.txt-ser, .txt-cont{
+		font-size: 20px;
+		padding: 0px 5px;
+	}
+
+	.subtit-ser{
+		font-size: 23px;
+		color: #000;
+	}
+
+	.subtxt-ser{
+		text-align: justify;
+		color: #000;
+		margin-bottom: 30px;
+	}
+
+	.image, .image2, .image3{
+		/*border-radius: 10px;*/
+		width: 100%;
+		margin: auto;
+	}
+
+	.img-lave{
+		/*border: 2px solid red;*/
+		margin: auto;
+	}
+	
+	form{
+		width: 80%;
+		margin: auto;
+	}
+
+	.btn-send{
+		text-align: center;
+		float: none !important;
+	}
+
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		width: 95%;
+		margin-bottom: 10px;
+	}
+/************************END DISENÑO INDEX*********************************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }
