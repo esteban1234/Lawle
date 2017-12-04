@@ -1,17 +1,28 @@
 $(function() {
     var contador = 1;
     var pull = $('.op-menu');
-    body = $('body');
     menu = $('nav');
 
-    $(pull).click(function(){
-        menu.slideDown(1000);
-        return false;
+    $(pull).on('click', function(e) {
+        e.preventDefault();
+        if (contador == 1) {
+           menu.slideToggle(1000);           
+           pull.css({
+               left: '78%',
+               transitionProperty:'opacity, top',
+               transitionDuration: '2s'
+           });
+
+            contador = 0;
+        } else {
+            menu.slideToggle(1000);
+             pull.css({
+               left: '40px',
+               transitionProperty:'opacity, top',
+               transitionDuration: '2s',
+               position:'fidex'
+           });
+            contador = 1;
+        }
     });
-
-
-     $(body).click(function(){
-            menu.slideUp(1000); 
-    });
-
 });

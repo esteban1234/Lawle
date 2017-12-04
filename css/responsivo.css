@@ -24,11 +24,12 @@
 	}
 
 	.op-menu{
-		position: absolute;
+		position: fixed;
 		top: 20px;
 		left: 40px;
 		cursor: pointer;
-		display: block;
+		display: block; 
+		z-index: 2;
 	}
 
 	nav{
@@ -183,11 +184,12 @@
 	}
 
 	.op-menu{
-		position: absolute;
+		position: fixed;
 		top: 20px;
 		left: 40px;
 		cursor: pointer;
 		display: block;
+		z-index: 2;
 	}
 
 	nav{
@@ -338,11 +340,12 @@
 	}
 
 	.op-menu{
-		position: absolute;
+		position: fixed;
 		top: 20px;
 		left: 40px;
 		cursor: pointer;
 		display: block;
+		z-index: 2;
 	}
 
 	nav{
